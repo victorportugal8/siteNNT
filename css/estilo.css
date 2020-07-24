@@ -1,0 +1,363 @@
+/*COR 1 - RED
+	https://www.hexcolortool.com/#F44336
+	VALORES: #F44336 <-> #FF5D50 <-> #FF7669 <-> #FF9083 <-> #FFA99C <-> #FFC2B5;
+*/
+
+.cor1{
+	color: #F44336;
+}
+
+.bgcor1{
+	background-color: #F44336
+}
+
+.cor1a{
+	color: #FF5D50;
+}
+
+.bgcor1a{
+	background-color: #FF5D50
+}
+
+.cor1b{
+	color: #FF7669;
+}
+
+.bgcor1b{
+	background-color: #FF7669
+}
+
+.cor1c{
+	color: #FF9083;
+}
+
+.bgcor1c{
+	background-color: #FF9083
+}
+
+.cor1d{
+	color: #FFA99C;
+}
+
+.bgcor1d{
+	background-color: #FFA99C
+}
+
+.cor1e{
+	color: #FFC2B5;
+}
+
+.bgcor1e{
+	background-color: #FFC2B5
+}
+
+/*COR 2 - PINK
+	https://www.hexcolortool.com/#E91E63
+	VALORES: #E91E63 <-> #D0054A <-> #B60030 <-> #9D0017 <-> #830000 <-> #6A0000;
+*/
+
+.cor2{
+	color: #E91E63;
+}
+
+.bgcor2{
+	background-color: #E91E63
+}
+
+.cor2a{
+	color: #D0054A;
+}
+
+.bgcor2a{
+	background-color: #D0054A
+}
+
+.cor2b{
+	color: #B60030;
+}
+
+.bgcor2b{
+	background-color: #B60030
+}
+
+.cor2c{
+	color: #9D0017;
+}
+
+.bgcor2c{
+	background-color: #9D0017
+}
+
+.cor2d{
+	color: #830000;
+}
+
+.bgcor2d{
+	background-color: #830000
+}
+
+.cor2e{
+	color: #6A0000;
+}
+
+.bgcor2e{
+	background-color: #6A0000
+}
+
+/*COR 3 - BLUE
+	https://www.hexcolortool.com/#2196F3
+	VALORES: #2196F3 <-> #3BB0FF <-> #54C9FF <-> #6EE3FF <-> #87FCFF <-> #A0FFFF;
+*/
+
+.cor3{
+	color: #2196F3;
+}
+
+.bgcor3{
+	background-color: #2196F3
+}
+
+.cor3a{
+	color: #3BB0FF;
+}
+
+.bgcor3a{
+	background-color: #3BB0FF
+}
+
+.cor3b{
+	color: #54C9FF;
+}
+
+.bgcor3b{
+	background-color: #54C9FF
+}
+
+.cor3c{
+	color: #6EE3FF;
+}
+
+.bgcor3c{
+	background-color: #6EE3FF
+}
+
+.cor3d{
+	color: #87FCFF;
+}
+
+.bgcor3d{
+	background-color: #87FCFF
+}
+
+.cor3e{
+	color: #A0FFFF;
+}
+
+.bgcor3e{
+	background-color: #A0FFFF
+}
+
+/*COR 4 - PURPLE
+	https://www.hexcolortool.com/#9C27B0
+	VALORES: #9C27B0 <-> #830E97 <-> #69007D <-> #500064 <-> #36004A <-> #1D0031;
+*/
+
+.cor4{
+	color: #9C27B0;
+}
+
+.bgcor4{
+	background-color: #9C27B0
+}
+
+.cor4a{
+	color: #830E97;
+}
+
+.bgcor4a{
+	background-color: #830E97
+}
+
+.cor4b{
+	color: #69007D;
+}
+
+.bgcor4b{
+	background-color: #69007D
+}
+
+.cor4c{
+	color: #500064;
+}
+
+.bgcor4c{
+	background-color: #500064
+}
+
+.cor4d{
+	color: #36004A;
+}
+
+.bgcor4d{
+	background-color: #36004A
+}
+
+.cor4e{
+	color: #1D0031;
+}
+
+.bgcor4e{
+	background-color: #1D0031
+}
+
+/*COR 5 - INDIGO
+	https://www.hexcolortool.com/#3F51B5
+	VALORES: #3F51B5 <-> #596BCF <-> #7284E8 <-> #8C9EFF <-> #A5B7FF <-> #BED0FF;
+*/
+
+.cor5{
+	color: #3F51B5;
+}
+
+.bgcor5{
+	background-color: #3F51B5
+}
+
+.cor5a{
+	color: #596BCF;
+}
+
+.bgcor5a{
+	background-color: #596BCF
+}
+
+.cor5b{
+	color: #7284E8;
+}
+
+.bgcor5b{
+	background-color: #7284E8
+}
+
+.cor5c{
+	color: #8C9EFF;
+}
+
+.bgcor5c{
+	background-color: #8C9EFF
+}
+
+.cor5d{
+	color: #A5B7FF;
+}
+
+.bgcor5d{
+	background-color: #A5B7FF
+}
+
+.cor5e{
+	color: #BED0FF;
+}
+
+.bgcor5e{
+	background-color: #BED0FF
+}
+
+/*COR 6 - TEAL
+	https://www.hexcolortool.com/#009688
+	VALORES: #009688 <-> #007D6F <-> #006355 <-> #004A3C <-> #003022 <-> #001709;
+*/
+
+.cor6{
+	color: #009688;
+}
+
+.bgcor6{
+	background-color: #009688
+}
+
+.cor6a{
+	color: #007D6F;
+}
+
+.bgcor6a{
+	background-color: #007D6F
+}
+
+.cor6b{
+	color: #006355;
+}
+
+.bgcor6b{
+	background-color: #006355
+}
+
+.cor6c{
+	color: #004A3C;
+}
+
+.bgcor6c{
+	background-color: #004A3C
+}
+
+.cor6d{
+	color: #003022;
+}
+
+.bgcor6d{
+	background-color: #003022
+}
+
+.cor6e{
+	color: #001709;
+}
+
+.bgcor6e{
+	background-color: #001709
+}
+
+/* GERAL */
+
+/* body{
+	font-size: 20px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.title{
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+.table-color-palette{
+	width: 70%;
+	margin: auto;
+	border-collapse: collapse;
+	text-align: left;
+}
+
+.table-color-palette td{
+	padding: .75em;
+}
+
+.table-color-palette th{
+	background: #ccc;
+	padding: .75em;
+}
+
+.table-color-palette tbody tr td{
+	border-bottom: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	color: black;
+}
+
+/* .table-color-palette tbody tr:first-child td{
+	border-top: 2px solid #666;
+}
+
+.table-color-palette tbody tr:last-child td{
+	border-bottom: 2px solid #666;
+}
+
+.table-color-palette tbody tr:nth-child(odd) td{
+	background-color: #eee;
+} */

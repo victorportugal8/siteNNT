@@ -1,0 +1,235 @@
+/** Fase 1 - Ajustando o elemento body **/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #e6e6e6;
+}
+
+footer{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333333;
+}
+
+/** Fase 2 - Lista Horizontal **/
+h1.titulo{
+	text-align: center;
+	padding: 15px;
+}
+
+h2.sub-titulo{
+	text-align: center;
+	padding: 15px;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #e6e6e6;
+}
+
+section.menu{
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	margin: 0 ;
+	padding: 15px;
+	overflow: hidden;
+	background-color: #3F51B5;
+	
+}
+
+section.menu ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	border-radius: 10px;
+	overflow: hidden;
+	background-color: #3F51B5;
+	display: flex;
+	justify-content: space-between;
+}
+
+section.menu ul li{
+	margin-left: 15px;
+	border:3px solid white;
+	border-radius: 10px;
+}
+
+section.menu ul li a{
+	border-radius: 10px;
+	display: block;
+	text-align: center;
+	padding: 10px;
+	text-decoration: none;
+	font-weight: bolder;
+	color: white;
+	font-size: 16px;
+	background-color: #3F51B5;
+}
+
+section.menu ul li a:hover{
+	background-color: #8C9EFF;
+	color: #A5B7FF;
+}
+
+/* table.season-table{
+	text-align: center;
+}
+
+table.season-table a{
+	text-decoration: none;
+} */
+
+.season-table{
+	width: 70%;
+	margin: auto;
+	border-collapse: collapse;
+	text-align: left;
+}
+
+.season-table td{
+	padding: .75em;
+}
+
+.season-table th{
+	background: #3F51B5;
+	padding: .75em;
+}
+
+.season-table tbody tr td{
+	border-bottom: 1px solid #ccc;
+}
+
+.season-table tbody tr:first-child td{
+	border-top: 2px solid #3F51B5;
+}
+
+.season-table tbody tr:last-child td{
+	border-bottom: 2px solid #3F51B5;
+}
+
+.season-table tbody tr:nth-child(odd) td{
+	background-color: #A5B7FF;
+}
+
+.sound-table{
+	width: 70%;
+	margin: auto;
+	border-collapse: collapse;
+	text-align: left;
+}
+
+.sound-table td{
+	padding: .75em;
+}
+
+.sound-table th{
+	background: #3F51B5;
+	padding: .75em;
+}
+
+.sound-table tbody tr td{
+	border-bottom: 1px solid #ccc;
+}
+
+.sound-table tbody tr:first-child td{
+	border-top: 2px solid #3F51B5;
+}
+
+.sound-table tbody tr:last-child td{
+	border-bottom: 2px solid #3F51B5;
+}
+
+.sound-table tbody tr:nth-child(odd) td{
+	background-color: #A5B7FF;
+}
+
+.character-table{
+	width: 70%;
+	margin: auto;
+	border-collapse: collapse;
+	text-align: left;
+}
+
+.character-table td{
+	padding: .75em;
+}
+
+.character-table th{
+	background: #3F51B5;
+	padding: .75em;
+}
+
+.character-table tbody tr td{
+	border-bottom: 1px solid #ccc;
+}
+
+.character-table tbody tr:first-child td{
+	border-top: 2px solid #3F51B5;
+}
+
+.character-table tbody tr:last-child td{
+	border-bottom: 2px solid #3F51B5;
+}
+
+.character-table tbody tr:nth-child(odd) td{
+	background-color: #A5B7FF;
+}
+
+/*CONFIG TABELA GENERICO*/
+table{
+	margin: auto;
+	width: 900px;
+}
+td,th{
+	padding: 10px;
+}
+
+/*Personagem*/
+
+.img-personagem{
+	width: 250px;
+	height: 150px;
+}
+
+.character-table{
+	text-align: center;
+}
+
+.holy-knight-char{
+	width: 200px;
+	height: 250px;
+}
+
+.commandment-char{
+	width: 200px;
+	height: 250px;
+}
+
+.arcanjos-char{
+	width: 200px;
+	height: 250px;
+}
+
+.rugido-char{
+	width: 200px;
+	height: 250px;
+}
+
+.others-char{
+	width: 200px;
+	height: 250px;
+}
